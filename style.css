@@ -6,7 +6,7 @@
   }
   
   body{
-    background-color: #18181B;
+    background-color: #180909da;
     width: 100%;
     height: 100vh;
     display: flex;
@@ -109,4 +109,10 @@
     bottom: 50px;
     visibility: visible;
     opacity: 1;
+  }
+
+  .rodapé{
+    position: absolute;
+    bottom: 20%;
+    left: 40%;
   }
